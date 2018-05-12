@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37648'
     url: http://www.gutenberg.org/2009/agents/37648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34304#The-Complete-Story-of-the-Galveston-Horror
 gutenberg_issued: '2010-11-12'
 gutenberg_type: Text
 identifiers:
