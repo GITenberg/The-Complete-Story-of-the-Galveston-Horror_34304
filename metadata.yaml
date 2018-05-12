@@ -1,0 +1,24 @@
+_repo: The-Complete-Story-of-the-Galveston-Horror_34304
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34304-h/images/cover.png
+creator:
+  editor:
+    agent_name: Coulter, John
+    gutenberg_agent_id: '37648'
+    url: http://www.gutenberg.org/2009/agents/37648
+description: ''
+gutenberg_issued: '2010-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Galveston (Tex.) -- Storm, 1900'
+- !lcc 'F350.5'
+title: The Complete Story of the Galveston Horror
+url: http://www.gutenberg.org/ebooks/34304
